@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask-bootstrap
+flask-wtf
+flask-migrate
+psycopg2
