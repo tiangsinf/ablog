@@ -22,7 +22,7 @@ class prodConfig(Config):
 
 config = {
     'development'   : devConfig,
-    'test'          : testConfig,
+    'testing'       : testConfig,
     'production'    : prodConfig,
 
     'default'       : devConfig
